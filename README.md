@@ -31,4 +31,4 @@ This project was created to learn networking fundamentals, TCP/IP communication,
 
 ## Disclaimer
 
-This tool is intended for educational purposes and authorized security testing only.
+This tool is intended for educational purposes and authorized security testing only
