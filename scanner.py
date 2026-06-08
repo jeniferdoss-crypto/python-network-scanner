@@ -12,5 +12,9 @@ for port in ports:
 
     if result == 0:
         print(f"[+] Port {port} Open")
+    else:
+        print(f"[-] Port {port} Closed")
 
     sock.close()
+
+print("Scan Completed")
