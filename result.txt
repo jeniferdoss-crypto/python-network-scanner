@@ -1,0 +1,13 @@
+NETWORK SCAN REPORT
+==================================================
+Target: 127.0.0.1
+Scan Date: Mon Jun 08 14:25:31 2026
+==================================================
+
+[OPEN] Port 22    Service: SSH
+[OPEN] Port 80    Service: HTTP
+[OPEN] Port 443   Service: HTTPS
+
+==================================================
+Total Open Ports: 3
+Scan Time: 0.47 seconds
