@@ -60,7 +60,7 @@ Report saved to results.txt
 
 ## Screenshot
 
-![Scanner Output](screenshots/scan_result.png)
+scan_result.png
 
 ## Learning Outcomes
 
